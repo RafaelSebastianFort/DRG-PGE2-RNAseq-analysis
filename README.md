@@ -24,12 +24,9 @@ DRG-PGE2-RNAseq-analysis/
 │   ├── metadata/
 │   └── scripts/
 ├── EISA/
-│   ├── README.md
-│   └── scripts/
-└── docs/
-    ├── STAR_METHODS_EMBRYO.md
-    ├── STAR_METHODS_ADULT.md
-    └── STAR_METHODS_EISA.md
+    ├── README.md
+    └── scripts/
+
 ```
 
 ## Embryonic RNA-seq dataset
