@@ -1,0 +1,13 @@
+sample	fastq	group
+TA1	152-TA1.fastq.gz	TAxon
+TA2	152-TA2.fastq.gz	TAxon
+TA3	152-TA3.fastq.gz	TAxon
+VA1	152-VA1.fastq.gz	VAxon
+VA2	152-VA2.fastq.gz	VAxon
+VA3	152-VA3.fastq.gz	VAxon
+TS1	152-TS1.fastq.gz	TSoma
+TS2	152-TS2.fastq.gz	TSoma
+TS3	152-TS3.fastq.gz	TSoma
+VS1	152-VS1.fastq.gz	VSoma
+VS2	152-VS2.fastq.gz	VSoma
+VS3	152-VS3.fastq.gz	VSoma

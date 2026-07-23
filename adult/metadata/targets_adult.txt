@@ -1,0 +1,13 @@
+label	files	group
+TA1	TA1.txt	TAxon
+TA2	TA2.txt	TAxon
+TA3	TA3.txt	TAxon
+VA1	VA1.txt	VAxon
+VA2	VA2.txt	VAxon
+VA3	VA3.txt	VAxon
+TS1	TS1.txt	TSoma
+TS2	TS2.txt	TSoma
+TS3	TS3.txt	TSoma
+VS1	VS1.txt	VSoma
+VS2	VS2.txt	VSoma
+VS3	VS3.txt	VSoma
